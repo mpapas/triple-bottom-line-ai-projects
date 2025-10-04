@@ -15,7 +15,7 @@ Use this tool to make your project reviews more sustainable, balanced, and trans
 ## Getting Started
 
 ### 1️⃣  Open the Custom GPT
-1. In ChatGPT, select **Explore GPTs → My GPTs → Triple Bottom Line Project Advisor**.  
+1. In ChatGPT, select **Explore GPTs → My GPTs → Triple Bottom Line Project Advisor** (or click [here](https://chatgpt.com/g/g-68e01c7d6ab08191bdf647d9e903560d-triple-bottom-line-project-advisor))  
 2. Click **Use GPT** to start a new conversation.
 
 ### 2️⃣  Prepare Your Project Data
