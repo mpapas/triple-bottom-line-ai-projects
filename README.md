@@ -12,7 +12,6 @@ This repository provides **frameworks, checklists, and templates** to help Proje
 - `docs/04_Case_Studies` — realistic examples applying TBL to AI projects
 - `docs/05_Resources` — standards, reading list, glossary
 - `docs/06_Community` — contributing guide, code of conduct, acknowledgements
-- `assets` — diagrams, logos, slides
 
 ## 🧩 Quick Start
 1. Explore **`docs/02_Tools/TBL_Scorecard_Template.xlsx`** and **`Responsible_AI_PM_Checklist.xlsx`**.
@@ -54,13 +53,13 @@ Downloadable resources, templates, and checklists.
 - [TBL Risk Register Template (Excel)](docs/02_Tools/TBL_Risk_Register_Template.xlsx)  
 - [Responsible AI Phase Questions](docs/02_Tools/Responsible_AI_PM_Questions.md)  
 - [Stakeholder Map Template](docs/02_Tools/stakeholder_map_template.md)  
-- [Sustainability Metrics Guide](docs/02_Tools/sustainability_metrics.md)
+- [Sample Sustainability Metrics](docs/02_Tools/sample_sustainability_metrics.md)
 
 ---
 
 ### 🔹 03 — Practices
 Phase-by-phase guides for integrating TBL into the AI project lifecycle.
-
+- [Tools Overview](docs/02_Tools/tools_overview.md)
 - [Initiation Guidelines](docs/03_Practices/initiation_guidelines.md)  
 - [Planning Guidelines](docs/03_Practices/planning_guidelines.md)  
 - [Execution Guidelines](docs/03_Practices/execution_guidelines.md)  
@@ -97,15 +96,6 @@ Guides and contribution opportunities.
 - [Code of Conduct](docs/06_Community/code_of_conduct.md)  
 - [Acknowledgements](docs/06_Community/acknowledgements.md)  
 - [Project Ideas for Future Case Studies](docs/06_Community/project_ideas.md)
-
----
-
-### 🔹 Assets
-Supporting visuals, decks, and diagrams.
-
-- [Presentation Slides](assets/slides/Responsible_AI_PM_Deck.pptx)  
-- [Diagrams & Illustrations](assets/diagrams/)  
-- [Logos & Graphics](assets/logos/)
 
 ---
 

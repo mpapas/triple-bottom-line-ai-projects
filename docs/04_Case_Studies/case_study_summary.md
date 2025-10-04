@@ -34,7 +34,7 @@ Long-term ROI correlated directly with responsible governance.
 
 ## 🧠 How to Use These Case Studies
 
-- **For PM Training:** Use them as discussion starters during Responsible AI workshops or PMI chapter events.  
+- **For PM Training:** Use them as discussion starters during Responsible AI workshops.  
 - **For Project Planning:** Reference interventions and scorecard approaches when drafting charters or risk registers.  
 - **For Contribution:** Use these examples to create your own TBL-aligned case study. (A `_template.md` will be provided in this folder.)
 
