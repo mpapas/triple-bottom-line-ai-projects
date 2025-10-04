@@ -1,0 +1,15 @@
+Project title: Cloud Data Migration (Azure)
+Project summary: Migrate two on-prem data centers to Azure in 6 months to reduce OPEX by ~20% and enable analytics modernization.
+
+Key details:
+- Scope: Lift-and-shift plus selective PaaS adoption (Data Factory, Synapse).
+- Stakeholders: IT Ops (24 staff), Finance (CFO sponsor), external SI vendor.
+- Constraints: Hard 6-month timeline, change freeze during quarter-end close.
+- Risks (known): Overtime/burnout risk, vendor supply chain transparency unknown, potential air freight for urgent hardware, transient energy spike during migration.
+- Sustainability posture: Company has 2030 net-zero target; no current supplier sustainability clauses.
+
+Request:
+1. Provide a TBL scorecard + confidence.
+2. List top 5 risks/opportunities per dimension.
+3. Recommend 5 interventions with impact deltas, effort, rationale/framework.
+4. End with a short executive narrative and 3 next steps.

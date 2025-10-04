@@ -1,0 +1,15 @@
+Project title: Downtown Office Building (LEED Gold Target)
+Project summary: Construct a 10-story office building in downtown Chicago, aiming for LEED Gold certification, with occupancy in 24 months. Budget: $85M.
+
+Key details:
+- Scope: Energy-efficient HVAC, recycled steel, green roof, and rainwater collection system.
+- Stakeholders: City planning office, local community board, construction contractors, commercial tenants.
+- Constraints: Budget cannot exceed $85M, project must meet city green code standards.
+- Risks (known): Construction waste management challenges, higher upfront cost of sustainable materials, potential tenant pushback on rent premiums, labor safety on site.
+- Sustainability posture: Developer has ESG policy emphasizing low-carbon buildings and worker well-being.
+
+Request:
+1. Provide a TBL scorecard + confidence.
+2. List top 5 risks/opportunities per dimension.
+3. Recommend 5 interventions with impact deltas, effort, rationale/framework.
+4. End with a short executive narrative and 3 next steps.

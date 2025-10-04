@@ -39,6 +39,12 @@ Allows PMs to assign numeric scores (−2 to +2) and confidence levels to each d
 
 > 🧩 **Use when:** you want to evaluate trade-offs and show stakeholders a balanced project impact.
 
+> **NOTE** you can use a custom GPT to help kickstart the scoring and to experiment with the different dimensions. The custom GPT is located here:
+[Triple Bottom Line Project Advisor](https://chatgpt.com/g/g-68e01c7d6ab08191bdf647d9e903560d-triple-bottom-line-project-advisor)
+
+For instructions and sample prompts, see:
+[How to use the Triple Bottom Line Project Advisor GPT](tbl_custom_gpt.md)
+
 ---
 
 ## 🪜 3. TBL Risk Register Template

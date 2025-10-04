@@ -1,0 +1,16 @@
+Project title: HR Helpdesk Automation with AI Chatbots
+
+Project summary: Replace 60% of HR helpdesk functions (policy questions, benefits inquiries, vacation requests) with an AI-powered chatbot integrated into Microsoft Teams. The goal is to cut HR operating costs by 30% within 12 months, while maintaining service quality.
+
+Key details:
+- Scope: Deploy AI chatbot trained on internal HR documents, integrate with payroll and benefits systems.
+- Stakeholders: HR leadership, IT department, 12 HR staff (some may be redeployed or let go), employees (~5,000).
+- Constraints: Must comply with labor law, GDPR for employee data, and existing union agreements.
+- Risks (known): Employee morale impact, potential job losses in HR, AI accuracy gaps may cause compliance errors, additional energy footprint from cloud AI usage.
+- Sustainability posture: Company has ESG commitment emphasizing “responsible automation” — investing in reskilling and ensuring fair workforce transitions.
+
+Request:
+1. Provide a TBL scorecard + confidence.
+2. List top 5 risks/opportunities per dimension.
+3. Recommend 5 interventions with impact deltas, effort, rationale/framework.
+4. End with a short executive narrative and 3 next steps.
