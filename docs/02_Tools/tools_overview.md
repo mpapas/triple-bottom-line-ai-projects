@@ -81,21 +81,13 @@ Helps identify underrepresented voices (e.g., sustainability teams, ethics commi
 
 ---
 
-## 🌱 5. Sustainability Metrics Guide
+## 🌱 5. TBL Measurement Guide
 
-**File:** [sustainability_metrics.md](sustainability_metrics.md)
+**File:** [tbl_measurement_guide.md](tbl_measurement_guide.md)
 
-Outlines common environmental performance metrics for AI systems and data infrastructure.  
-Enables teams to track sustainability KPIs as easily as financial KPIs.
+Helps project managers measure and report **Triple Bottom Line (TBL)** performance — *People, Planet, Profit* — using credible, globally recognized frameworks and data sources.
 
-| Metric | Description |
-|---------|-------------|
-| **Energy (kWh)** | Power consumption per 1,000 training or inference operations. |
-| **Carbon Intensity (gCO₂e)** | Emissions associated with compute energy. |
-| **Hardware Utilization (%)** | Indicates under/over-provisioning efficiency. |
-| **Cloud Region Mix** | Helps choose lower-carbon hosting locations. |
-
-> 🧩 **Use when:** reporting energy or carbon efficiency in sustainability or ESG scorecards.
+> 🧩 **Use when:** integrating measurement into project delivery.
 
 ---
 
