@@ -48,23 +48,24 @@ Core models, comparisons, and lifecycle mappings.
 ### 🔹 02 — Tools
 Downloadable resources, templates, and checklists.
 
+- [Tools Overview](docs/02_Tools/tools_overview.md)
 - [Responsible AI PM Checklist (Excel)](docs/02_Tools/Responsible_AI_PM_Checklist.xlsx)  
 - [TBL Scorecard Template (Excel)](docs/02_Tools/TBL_Scorecard_Template.xlsx)  
 - [TBL Risk Register Template (Excel)](docs/02_Tools/TBL_Risk_Register_Template.xlsx)  
 - [Responsible AI Phase Questions](docs/02_Tools/Responsible_AI_PM_Questions.md)  
 - [Stakeholder Map Template](docs/02_Tools/stakeholder_map_template.md)  
-- [Sample Sustainability Metrics](docs/02_Tools/sample_sustainability_metrics.md)
 
 ---
 
 ### 🔹 03 — Practices
 Phase-by-phase guides for integrating TBL into the AI project lifecycle.
-- [Tools Overview](docs/02_Tools/tools_overview.md)
+
 - [Initiation Guidelines](docs/03_Practices/initiation_guidelines.md)  
 - [Planning Guidelines](docs/03_Practices/planning_guidelines.md)  
 - [Execution Guidelines](docs/03_Practices/execution_guidelines.md)  
 - [Monitoring & Control Guidelines](docs/03_Practices/monitoring_guidelines.md)  
 - [Closure Guidelines](docs/03_Practices/closure_guidelines.md)
+- [Measurement Reference Guide](docs/03_Practices/tbl_measurement_guide.md)
 
 ---
 

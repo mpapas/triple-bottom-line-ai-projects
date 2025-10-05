@@ -81,17 +81,7 @@ Helps identify underrepresented voices (e.g., sustainability teams, ethics commi
 
 ---
 
-## 🌱 5. TBL Measurement Guide
-
-**File:** [tbl_measurement_guide.md](tbl_measurement_guide.md)
-
-Helps project managers measure and report **Triple Bottom Line (TBL)** performance — *People, Planet, Profit* — using credible, globally recognized frameworks and data sources.
-
-> 🧩 **Use when:** integrating measurement into project delivery.
-
----
-
-## 🧠 6. Responsible AI Phase Questions
+## 🧠 5. Responsible AI Phase Questions
 
 **File:** [Responsible_AI_PM_Questions.md](Responsible_AI_PM_Questions.md)
 
@@ -109,6 +99,16 @@ A phase-by-phase list of reflection questions for embedding Responsible AI consi
 
 ---
 
+## 🌱 6. TBL Measurement Guide (Sustainability Metrics)
+
+**File:** [tbl_measurement_guide.md](../03_Practices/tbl_measurement_guide.md)
+
+Use as a reference to measure and report **Triple Bottom Line (TBL)** performance — *People, Planet, Profit* — using credible, globally recognized frameworks and data sources.
+
+> 🧩 **Use when:** integrating measurement into project delivery.
+
+---
+
 ## 🧭 How to Apply the Toolkit
 
 | Step | Action | Outcome |
@@ -117,8 +117,8 @@ A phase-by-phase list of reflection questions for embedding Responsible AI consi
 | 2 | Use the **Scorecard** | Quantify your People, Planet, Profit balance. |
 | 3 | Update the **Risk Register** | Integrate ethical and sustainability risks. |
 | 4 | Engage via **Stakeholder Map** | Ensure inclusive decision-making. |
-| 5 | Track with **Sustainability Metrics** | Measure environmental impact over time. |
-| 6 | Reflect using **RAI Questions** | Improve maturity and awareness across the team. |
+| 5 | Reflect using **RAI Questions** | Improve maturity and awareness across the team. |
+| 6 | Track with **Sustainability Metrics** | Measure environmental impact over time. |
 
 ---
 
