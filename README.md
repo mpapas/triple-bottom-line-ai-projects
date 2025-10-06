@@ -32,6 +32,7 @@ Foundational knowledge and context.
 - [What is the Triple Bottom Line (TBL)?](docs/00_Overview/what_is_tbl.md)  
 - [Why TBL Matters in AI](docs/00_Overview/why_tbl_matters_in_ai.md)  
 - [Responsible AI Basics](docs/00_Overview/responsible_ai_basics.md)
+- [Role-Mapping Framework: The Project Manager as AI Catalyst](docs/00_Overview/PM_as_AI_catalyst.md)
 
 ---
 
